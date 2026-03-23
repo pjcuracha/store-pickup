@@ -1,0 +1,8 @@
+{
+  "welcome": "歡迎使用 {{target}} 擴充功能！",
+  "iWouldLikeAFreeGiftWithMyOrder": "我希望在訂單中收到免費贈品",
+  "addAFreeGiftToMyOrder": "將免費贈品加入我的訂單",
+  "metafieldChangesAreNotSupported": "此結帳流程不支援購物車 metafield 的變更",
+  "storePickupSelectedCritical": "您似乎已更改地址，請確認所選的送貨方式是否正確",
+  "storePickupSelectedWarning": "已選擇門市自取。配送地址已設為門市位置，請勿修改。"
+}

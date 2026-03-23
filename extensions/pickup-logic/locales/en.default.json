@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to the {{target}} extension!",
+  "iWouldLikeAFreeGiftWithMyOrder": "I would like to receive a free gift with my order",
+  "addAFreeGiftToMyOrder": "Add a free gift to my order",
+  "metafieldChangesAreNotSupported": "Cart metafield changes are not supported in this checkout",
+  "storePickupSelectedCritical": "Looks like you changed the address — please make sure the delivery method you want is still selected.",
+  "storePickupSelectedWarning": "Store pickup selected. Delivery address is set to store location, do not modify it."
+}
